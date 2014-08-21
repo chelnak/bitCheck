@@ -15,7 +15,7 @@ if (e.selectionText) {
  chrome.contextMenus.create({
     "title" : "Check BTC Address",
     "contexts" : ["selection"],
-	 "onclick" : queryBlockChain
+    "onclick" : queryBlockChain
   });
   
   
