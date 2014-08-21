@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+  
+  "name": "bitCheck",
+  "description": "Returns information on a Bitcoin address",
+  "version": "1.0",
+  "icons": {
+  		"16": "/img/icon-xs.png",
+  		"32": "/img/icon-s.png",
+  		"128": "/img/icon-l.png"
+  		},
+  	
+  	"background": {
+  		"scripts": ["/js/bitCheck.js"]
+  		},
+
+  "browser_action": {
+		"default_icon": "/img/icon-xs.png"  
+  },	
+
+  "permissions": [
+  	 "tabs",
+    "contextMenus",
+    "https://blockchain.info/address"
+  ]
+		
+  		
+}
