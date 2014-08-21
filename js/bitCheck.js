@@ -10,7 +10,7 @@ if (e.selectionText) {
    chrome.tabs.create(
           {"url" : blockChainUrl });
 
-}
+};
   
  chrome.contextMenus.create({
     "title" : "Check BTC Address",
