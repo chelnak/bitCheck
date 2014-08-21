@@ -58,11 +58,5 @@ chrome.contextMenus.create({
 	 "onclick" : queryBlockChain
 });
 
-chrome.contextMenus.create({
-    "title" : "JSON Check BTC Address",
-    "contexts" : ["selection"],
-	 "onclick" : queryBlockChainJSON
-});
-
   
   
