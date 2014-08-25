@@ -1,14 +1,15 @@
 bitCheck
 ========
 
-Chome Extension to check out Bitcoin Addresses using BlockChain.info
+A simple Chrome Extension to check Bitcoin Address stats using the BlockChain.info api.
 
-This revision enables a context menu item called "Check BTC Address". The user must highlight a btc address, right click and select Check BTC Address to be redirected to blockchain.inco/address/xxxxxxxxxxxxxxxxxx.
-
+USAGE
+1. Highlight a Bitcoin address on a web page
+2. Right click and select "Check BTC Address"
+3. You will be redirected to https://blockchain.info/address/xxxxxxxxxxxxxxxxxx
 
 TODO
 
-- Add bitcoin address validation
 - Work on error handling
 - reutn JSON values and display in popup rather than directing using to blockchain.info/address/whateverbtcadress
 
