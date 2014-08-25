@@ -15,3 +15,5 @@ TODO
 LINKS
 - https://developer.chrome.com/extensions/xhr
 - http://www.flaticon.com/packs/bitcoin
+- validation js http://stackoverflow.com/questions/21559851/bitcoin-address-form-validation-javascript-and-php
+- sha256 js http://www.bichlmeier.info/sha256.js

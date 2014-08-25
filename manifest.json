@@ -11,11 +11,12 @@
   		},
   	
   	"background": {
-  		"scripts": ["/js/bitCheck.js"]
+  		"scripts": ["/js/BigInt.js", "/js/sha256.js", "/js/bitCheck.js"],
+		"persistent": false
   		},
 
   "permissions": [
-  	 "tabs",
+  	"tabs",
     "contextMenus",
     "https://blockchain.info/address"
   ]
