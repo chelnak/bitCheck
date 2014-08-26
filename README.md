@@ -5,7 +5,7 @@ A simple Chrome Extension to check Bitcoin Address stats using the BlockChain.in
 
 USAGE
 - Highlight a Bitcoin address on a web page
-- Right click and select "Check BTC Address"
+- Right click and select "Check Bitcoin Address"
 - You will be redirected to https://blockchain.info/address/xxxxxxxxxxxxxxxxxx
 
 TODO
