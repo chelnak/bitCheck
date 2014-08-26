@@ -107,7 +107,7 @@ chrome.contextMenus.onClicked.addListener(queryBlockChain);
 
 chrome.contextMenus.create({
 	"id" : "menu1",
-    "title" : "Check BTC Address",
+    "title" : "Check Bitcoin Address",
     "contexts" : ["selection"]
 });
 
