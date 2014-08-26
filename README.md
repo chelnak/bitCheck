@@ -13,7 +13,14 @@ TODO
 - Work on error handling
 - reutn JSON values and display in popup rather than directing using to blockchain.info/address/whateverbtcadress
 
+LICENSE INFORMATION
+
+- Bitcoin icon designed by freepik (http://www.flaticon.com/authors/freepik)
+- Bitcoin icon sourced from http://www.flaticon.com/packs/bitcoin
+- License CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/legalcode)
+
 LINKS
+
 - https://developer.chrome.com/extensions/xhr
 - http://www.flaticon.com/packs/bitcoin
 - validation js http://stackoverflow.com/questions/21559851/bitcoin-address-form-validation-javascript-and-php
