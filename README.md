@@ -24,3 +24,6 @@ LINKS
 - Bitcoin Address Validation http://stackoverflow.com/questions/21559851/bitcoin-address-form-validation-javascript-and-php
 - BigInt.js http://leemon.com/crypto/BigInt.html
 - sha256 js http://www.bichlmeier.info/sha256.js
+
+
+BTC: 1GytCiCKKeUSVsMSzSSXoKsqoodzWi7Do6
